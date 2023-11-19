@@ -22,18 +22,13 @@
 <body class="d-flex h-100 text-center text-white bg-dark">
 
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
-        <header class="mb-auto pb-3">
-            <div>
-                <span class="navbar-brand" href="#">
+        <header class="mb-3 pb-3">
+            <div class="row pb-3">
+                <span class="navbar-brand">
                     <img src="static/img/Logo-shield.svg" alt="" width="auto" height="35"
                         class="d-inline-block align-text-top">
                     Streamdefense
                 </span>
-                <nav class="nav nav-masthead justify-content-center float-md-end">
-                    <!-- <a class="nav-link active" aria-current="page" href="#">Home</a>
-                    <a class="nav-link" href="#">Features</a>
-                    <a class="nav-link" href="#">Contact</a> -->
-                </nav>
             </div>
         </header>
 
@@ -44,6 +39,20 @@
                 protecting your valuable information and are committed to providing comprehensive cybersecurity
                 solutions that are as modern as the threats they combat.</p>
         </main>
+
+        <!-- <div class="row px-4 mt-4">
+            <div class="card col-md-4 col-lg-4 col-xxl-3 px-0 my-4 mx-auto" style="border: 0;">
+                <img src="static/img/wazuh.png" class="card-img-top" alt="wazuh" width="100%" height="180px"
+                    style="object-fit: cover;">
+                <div class="card-body">
+                    <h5 class="card-title text-center">Safeguard Your Servers with Intrusion Detection Systems</h5>
+                    <p class="card-text">Defend your network infrastructure with our robust intrusion detection systems
+                        (IDS) capabilities, operational 24/7. We leverage Wazuh, a leading IDS solution, to harness the
+                        power of OSSEC's advanced features.
+                    </p>
+                </div>
+            </div>
+        </div> -->
 
         <footer class="mt-auto text-white-50">
             <div class="text-center p-3">
@@ -74,5 +83,17 @@
     main {
         font-weight: 100;
         font-family: 'Roboto', sans-serif;
+    }
+
+    .nav {
+        background-color: white;
+        font-weight: 500;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    .card-title,
+    .card-body {
+        font-family: 'Roboto', sans-serif;
+        color: black;
     }
 </style>
