@@ -1,10 +1,14 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en" class="h-100">
 
 <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>Streamdefense</title>
     <link rel="icon" type="image/x-icon" href="static/img/favicon.ico">
 
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/cover/">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500;700&display=swap" rel="stylesheet">
@@ -15,44 +19,49 @@
         crossorigin="anonymous"></script>
 </head>
 
-<body>
+<body class="d-flex h-100 text-center text-white bg-dark">
 
-    <div class="container p-0 d-flex flex-column min-vh-100">
-
-        <nav class="navbar navbar-dark bg-dark">
-            <div class="container-fluid">
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+        <header class="mb-auto">
+            <div>
                 <a class="navbar-brand" href="#">
-                    <img src="static/img/Logo-shield.svg" alt="" width="30" height="24"
+                    <img src="static/img/Logo-shield.svg" alt="" width="auto" height="35"
                         class="d-inline-block align-text-top">
                     Streamdefense
                 </a>
-        </nav>
-        <div class="row align-items-center px-4" style="color: #333;">
-            <div class="col-sm-12 text-center mt-3">
-                <h3 style="font-weight: bolder;">Modern, Robust, Privacy-Oriented IT Solutions</h3>
+                <nav class="nav nav-masthead justify-content-center float-md-end">
+                    <!-- <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    <a class="nav-link" href="#">Features</a>
+                    <a class="nav-link" href="#">Contact</a> -->
+                </nav>
             </div>
-        </div>
-        <footer class="bg-dark text-center text-lg-start mt-auto">
-            <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.7);">
+        </header>
+
+        <main class="px-3">
+            <h1>Modern, Robust, Privacy-Oriented IT Solutions</h1>
+            <p class="lead">In today's interconnected world, cyber threats are an ever-present reality, posing
+                significant risks to businesses and individuals alike. At Streamdefense, we understand the urgency of
+                protecting your valuable information and are committed to providing comprehensive cybersecurity
+                solutions that are as modern as the threats they combat.</p>
+        </main>
+
+        <footer class="mt-auto text-white-50">
+            <div class="text-center p-3">
                 <span style="color: white;">© 2023 Copyright<br>contact@streamdefense.net</span>
             </div>
         </footer>
     </div>
+
+
+
 </body>
 
 </html>
-
 <style>
-    body {
-        background: url(static/img/strip.png);
-    }
-
-    .container {
-        background-color: #fff;
-    }
-
     .navbar-brand {
         font-weight: 500;
         font-family: 'Roboto', sans-serif;
+        color: white;
+        font-size: 2em;
     }
 </style>
