@@ -1,0 +1,23 @@
+.navbar-brand {
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 2em;
+    cursor: default;
+}
+
+main {
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav {
+    background-color: white;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-title,
+.card-body {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
