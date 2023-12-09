@@ -22,3 +22,7 @@ main {
     font-family: 'Roboto', sans-serif;
     color: black;
 }
+
+body {
+    background-color: black !important;
+}
