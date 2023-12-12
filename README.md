@@ -23,10 +23,10 @@ In today's digital landscape, cyber threats evolve at an alarming rate, posing a
 
 Wazuh SaaS provides comprehensive security for your organization, delivered as a cloud service. Choose the plan that fits your needs and scale effortlessly as your organization grows.
 
-| Size   | Cores | Memory | Paid Monthly | Paid Yearly |
-|--------|-------|--------|--------------|-------------|
-| Small  | 2     | 4      | $120         | $1200       |
-| Medium | 4     | 8      | $220         | $2400       |
+| Size   | Cores | Memory | Paid Monthly  | Paid Yearly  |
+|--------|-------|--------|---------------|--------------|
+| Small  | 2     | 4      | USD $120      | USD $1200    |
+| Medium | 4     | 8      | USD $220      | USD $2400    |
 
 Larger setups require a custom solution. Please contact us for more information.
 
