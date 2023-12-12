@@ -35,6 +35,6 @@ Larger setups require a custom solution. Please contact us for more information.
 To learn more about how Streamdefense can help you protect your business from cyber threats, contact us today at:
 
 Email: contact@streamdefense.net  
-Website: https://streamdefence.net/
+Website: https://streamdefence.net
 
 Copyright © 2023 Streamdefense. All rights reserved.
