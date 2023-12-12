@@ -25,7 +25,7 @@ Wazuh SaaS provides comprehensive security for your organization, delivered as a
 
 | Size   | Cores | Memory | Paid Monthly | Paid Yearly |
 |--------|-------|--------|--------------|-------------|
-| Small  | 2     | 4      | $110         | $1200       |
+| Small  | 2     | 4      | $120         | $1200       |
 | Medium | 4     | 8      | $220         | $2400       |
 
 Larger setups require a custom solution. Please contact us for more information.
