@@ -1,34 +1,35 @@
 .navbar-brand {
     font-weight: 500;
-    font-family: 'Roboto', sans-serif;
-    color: white;
+    font-family: "Roboto", sans-serif;
+    color: rgb(249, 249, 249);
     font-size: 2.5em;
     cursor: default;
     margin-top: 5vh;
 }
 
 main {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 .nav {
-    background-color: white;
+    background-color: rgb(249, 249, 249);
     font-weight: 500;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 .card-title,
 .card-body {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     color: black;
 }
 
 body {
     background-color: #030303 !important;
+    color: rgb(249, 249, 249);
 }
 
 .lead {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 300;
     font-size: 1.5em;
     color: #c0c0c0;
@@ -47,4 +48,9 @@ a {
 }
 a:hover {
     color: #1289af;
+}
+h1,
+p,
+span {
+    color: rgb(249, 249, 249);
 }
