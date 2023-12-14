@@ -19,11 +19,22 @@ In today's digital landscape, cyber threats evolve at an alarming rate, posing a
 - **Privacy-Oriented:** We are committed to protecting your data and privacy.
 - **Expert Team:** We have a team of experienced cybersecurity professionals who are passionate about keeping you safe.
 
+### Wazuh SaaS: Simple, Scalable Security
+
+Wazuh SaaS provides comprehensive security for your organization, delivered as a cloud service. Choose the plan that fits your needs and scale effortlessly as your organization grows.
+
+| Size   | Cores | Memory | Paid Monthly  | Paid Yearly  |
+|--------|-------|--------|---------------|--------------|
+| Small  | 2     | 4      | USD $120      | USD $1200    |
+| Medium | 4     | 8      | USD $220      | USD $2400    |
+
+Larger setups require a custom solution. Please contact us for more information.
+
 ### Contact Us Today
 
 To learn more about how Streamdefense can help you protect your business from cyber threats, contact us today at:
 
 Email: contact@streamdefense.net  
-Website: https://www.streamdefence.net/
+Website: https://streamdefense.net
 
 Copyright © 2023 Streamdefense. All rights reserved.
