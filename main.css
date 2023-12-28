@@ -42,15 +42,23 @@ img {
 .logo {
     max-height: 80px;
 }
+
 a {
     color: #74cfed;
 }
+
 a:hover {
     color: #1289af;
 }
+
 span {
     color: white;
 }
+
 .dim {
     color: #c0c0c0;
+}
+
+.container {
+    max-width: 960px;
 }
