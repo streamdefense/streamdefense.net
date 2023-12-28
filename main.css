@@ -60,11 +60,12 @@ span {
     color: #fcfcfc;
 }
 
-.container {
-    max-width: 960px;
-    background-color: black;
-}
-
 a {
     font-weight: bold;
+}
+
+.wrapper {
+    background-color: black;
+    max-width: 960px;
+    min-height: 100vh;
 }
