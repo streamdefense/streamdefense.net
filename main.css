@@ -24,7 +24,8 @@ main {
 }
 
 body {
-    background-color: #030303 !important;
+    font-family: "Roboto", sans-serif;
+    background-color: #111;
     color: white;
 }
 
@@ -32,7 +33,7 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: 300;
     font-size: 1.5em;
-    color: #c0c0c0;
+    color: #fcfcfc;
 }
 
 img {
@@ -56,9 +57,11 @@ span {
 }
 
 .dim {
-    color: #c0c0c0;
+    color: #fcfcfc;
 }
 
 .container {
     max-width: 960px;
+    background-color: black;
 }
+
