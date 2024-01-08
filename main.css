@@ -61,7 +61,7 @@ a {
 }
 
 .wrapper {
-    background-color: black;
+    background-color: #333;
     max-width: 960px;
     min-height: 100vh;
 }
